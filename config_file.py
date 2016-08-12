@@ -53,7 +53,7 @@ CONFIG['storage'][4]['HOST'] = "storage.googleapis.com"
 CONFIG['storage'][4]['CT'] = "host"
 
 CONFIG['DB']['INSTANCE'] = "ifsharedb"
-CONFIG['DB']['ENDPOINT'] = "[endpoint no aws]"
+CONFIG['DB']['ENDPOINT'] = "ifshare.cmnhrgb4yemo.us-west-2.rds.amazonaws.com:3306"
 CONFIG['DB']['DATABASE'] = "ifshare"
 CONFIG['DB']['USER'] = "ifshare"
 CONFIG['DB']['PASS'] = "ifshare"
