@@ -57,8 +57,8 @@ CONFIG['DB']['ENDPOINT'] = "[endpoint no aws]"
 CONFIG['DB']['DATABASE'] = "ifshare"
 CONFIG['DB']['USER'] = "ifshare"
 CONFIG['DB']['PASS'] = "ifshare"
-CONFIG['DB']['ADMINUSER'] = "[usuario admin no bd]"
-CONFIG['DB']['ADMINPASSWD'] = "[senha do usuario admin no bd]"
+CONFIG['DB']['ADMINUSER'] = "dbmaster"
+CONFIG['DB']['ADMINPASSWD'] = "jcb34866916"
 
 CONFIG['DOREMOVE'] = True
 CONFIG['DOREMOVELOCAL'] = True
